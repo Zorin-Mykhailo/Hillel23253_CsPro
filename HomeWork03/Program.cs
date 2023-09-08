@@ -8,6 +8,7 @@ namespace HomeWork03
         {
             Console.OutputEncoding = Encoding.UTF8;
             Console.WriteLine("✨ This is Hillel 2023 C# Pro homework #03");
+            Console.WriteLine("Approve pr or bad luck :)");
         }
     }
 }
