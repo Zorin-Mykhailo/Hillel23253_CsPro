@@ -8,9 +8,6 @@ namespace HomeWork03
 {
     public class MorozHordii
     {
-        //Program.cs
-        //MorozHordii obj = new MorozHordii();
-        //obj.ToString();
         public override string ToString()
         {
             return "MorozHordii";
