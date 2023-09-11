@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace HomeWork03
 {
-    internal class Eksarov_Pavlo
+    internal class EksarovPavlo
     {
+        public override string ToString()
+        {
+            return "EksarovPavlo";
+        }
+
     }
 }
