@@ -11,7 +11,8 @@ namespace HomeWork03
 
             List<Object> projectMembers = new()
             {
-                new ZorinMykhailo()
+                new ZorinMykhailo(),
+                new BoiarynovMaksym()
             };
 
             Console.WriteLine("\n👥 Project members:");
