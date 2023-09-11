@@ -33,8 +33,8 @@
    - Оксана Гнип
    - Bogdan Gayko
  - Team 3
-   - Mykhailo Zorin
-   - Гордій Мороз
-   - Pavlo Eksarov
-   - Наталія Писляр
-   - Maksym Boiarynov
+   - [Mykhailo Zorin](https://github.com/Zorin-Mykhailo)
+   - [Гордій Мороз](https://github.com/Gepyy)
+   - [Pavlo Eksarov](https://github.com/StCavvy)
+   - [Наталія Писляр](https://github.com/Popeliuha)
+   - [Maksym Boiarynov](https://github.com/maksym-boiarynov)

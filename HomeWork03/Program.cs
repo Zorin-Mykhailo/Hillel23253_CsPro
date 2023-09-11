@@ -11,7 +11,7 @@ namespace HomeWork03
 
             List<Object> projectMembers = new()
             {
-                // Please insert your class here
+                new ZorinMykhailo()
             };
 
             Console.WriteLine("\n👥 Project members:");
