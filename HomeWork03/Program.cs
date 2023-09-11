@@ -12,6 +12,7 @@ namespace HomeWork03
             List<Object> projectMembers = new()
             {
                new MorozHordii()
+               new ZorinMykhailo()
             };
 
             Console.WriteLine("\n👥 Project members:");
