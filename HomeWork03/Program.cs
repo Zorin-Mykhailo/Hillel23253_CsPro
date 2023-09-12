@@ -16,7 +16,8 @@ namespace HomeWork03
                 new ZorinMykhailo(),
                 new BoiarynovMaksym(),
                 new PyslarNataliia(),
-            };
+                new EksarovPavlo(),
+        };
 
             Console.WriteLine("\n👥 Project members:");
             foreach (var member in projectMembers)
