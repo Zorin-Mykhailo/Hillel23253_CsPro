@@ -22,6 +22,8 @@ namespace HomeWork03
             Console.WriteLine("\n👥 Project members:");
             foreach (var member in projectMembers)
                 Console.WriteLine($" 👤 {member.ToString()}");
+
+            Console.WriteLine("\n😜 Project finished!\n");
         }
     }
 }
